@@ -1,5 +1,6 @@
 # Bank_churners_excel_Exploration
 Analysis of Bank churners dataset using Excel
+# [Checkout explanation of this project through this 10 minute video](https://www.linkedin.com/posts/activity-6895261961647403008-Qo_M)
 ## Problem Statemet:
 A business manager of a consumer credit card portfolio is facing the problem of customer attrition. They want to analyze the data to find out the reason behind thisThe data is a sample of credit card customer accounts as of three months ago. Attrition has been defined as customers closing their credit card account .
 ## About the dataset:
